@@ -6,14 +6,6 @@
 
 
 
-In this framework, we support the following methods:
-
-|     Type    |   Model Name      |     From                |
-|:-----------:|:----------------:|:------------------------:|
-| Baselines |[TFN](models/singleTask/TFN.py)|[Tensor-Fusion-Network](https://github.com/A2Zadeh/TensorFusionNetwork)|
-| Baselines |[MulT](models/singleTask/MulT.py)(without CTC) |[Multimodal-Transformer](https://github.com/yaohungt/Multimodal-Transformer)|
-| Baselines |[MISA](models/singleTask/MISA.py) |[MISA](https://github.com/declare-lab/MISA)|
-| Missing-Task  |[TFR-Net](models/missingTask/TFR_NET)|      [TFR-Net](https://github.com/Columbine21/TFR-Net)  |
 
 #Data Preprocessing
 
