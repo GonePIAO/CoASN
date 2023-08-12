@@ -4,7 +4,7 @@
 >  This repository contains the official implementation code of the paper Deep modular Co-Attention Shifting Network for Multimodal Sentiment Analysis.
 **Note:** We strongly recommend that you browse the overall structure of our code at first. If you have any question, feel free to contact us.
 
-## Support Models
+
 
 In this framework, we support the following methods:
 
@@ -15,7 +15,7 @@ In this framework, we support the following methods:
 | Baselines |[MISA](models/singleTask/MISA.py) |[MISA](https://github.com/declare-lab/MISA)|
 | Missing-Task  |[TFR-Net](models/missingTask/TFR_NET)|      [TFR-Net](https://github.com/Columbine21/TFR-Net)  |
 
-### Data Preprocessing
+#Data Preprocessing
 
 1. Download datasets from the following links.
 
