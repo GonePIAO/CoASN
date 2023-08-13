@@ -1,5 +1,5 @@
 ![Python 3.6](https://img.shields.io/badge/python-3.6-green.svg)
->We will publish the code after the paper is published. Thank you for your attention.
+>**We will publish the code after the paper is published. Thank you for your attention**.
 
 >  This repository contains the official implementation code of the paper **Deep modular Co-Attention Shifting Network for Multimodal Sentiment Analysis**.
 > 
